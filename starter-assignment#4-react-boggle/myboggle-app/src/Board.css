@@ -1,0 +1,11 @@
+.Board-div {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.Tile-paper {
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  background-color: #f3f4f6;
+}
