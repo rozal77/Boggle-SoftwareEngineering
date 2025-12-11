@@ -1,0 +1,13 @@
+.Auth-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.Auth-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+

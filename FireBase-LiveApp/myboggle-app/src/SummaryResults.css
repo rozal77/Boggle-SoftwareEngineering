@@ -1,0 +1,26 @@
+.Summary-results {
+  text-align: center;
+}
+
+.Summary-results h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.Summary-results ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.Summary-results li {
+  font-size: 18px;
+  color: #555;
+  padding: 8px;
+  background-color: #f9fafb;
+  border-radius: 4px;
+}

@@ -1,0 +1,18 @@
+.GlobalLeaderboard {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.GlobalLeaderboard .MuiAccordion-root {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.GlobalLeaderboard .MuiAccordionSummary-root {
+  min-height: 64px;
+}
+
+.GlobalLeaderboard .MuiTable-root {
+  min-width: 400px;
+}
+
